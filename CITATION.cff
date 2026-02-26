@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 title: Average Calculator
+version: 1.0.0
+doi: 10.5281/zenodo.18792339
 authors:
 - family-names: Nikolaou
   given-names: Theofanis
-version: 1.0
+message: "If you use this software, please cite it using the metadata above."
